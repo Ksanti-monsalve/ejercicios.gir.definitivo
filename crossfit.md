@@ -8,3 +8,10 @@ El CrossFit es un programa de entrenamiento que combina ejercicios de fuerza, re
 - Aumenta la potencia, velocidad y agilidad.
 - Fomenta la variedad y motivación en el entrenamiento.
 - Desarrolla la resistencia mental y física.
+
+## Instrucciones
+1. Realiza un calentamiento general y específico de 10 minutos.
+2. Completa el WOD (Workout of the Day) que incluye ejercicios variados como levantamientos, saltos, carrera y ejercicios con peso corporal.
+3. Trabaja con intensidad, manteniendo buena técnica.
+4. Descansa según lo necesario entre rondas o ejercicios.
+5. Finaliza con estiramientos y recuperación.
