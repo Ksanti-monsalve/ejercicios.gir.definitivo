@@ -15,3 +15,8 @@ El boxeo es un entrenamiento de alta intensidad que combina movimientos de golpe
 3. Incorpora trabajo de pies y desplazamientos para mejorar agilidad.
 4. Realiza intervalos de alta intensidad seguidos de periodos de descanso.
 5. Finaliza con estiramientos para evitar rigidez muscular.
+
+## Consejos
+- Usa equipo adecuado como guantes y vendajes para proteger las manos.
+- Mantén una buena postura y técnica para prevenir lesiones.
+- Entrena progresivamente y escucha a tu cuerpo.
