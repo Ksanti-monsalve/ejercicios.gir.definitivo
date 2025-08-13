@@ -14,3 +14,8 @@ Los ejercicios de fuerza son actividades que ayudan a aumentar la masa muscular,
 - Realiza ejercicios de fuerza como levantamiento de pesas, flexiones, sentadillas o uso de bandas elásticas.
 - Realiza 3-4 series de 8-12 repeticiones para cada ejercicio.
 - Descansa entre series y termina con estiramientos.
+
+5. Consejos
+- Mantén una técnica correcta para evitar lesiones.
+- Incrementa el peso o la resistencia gradualmente.
+- Escucha a tu cuerpo y descansa cuando sea necesario.
