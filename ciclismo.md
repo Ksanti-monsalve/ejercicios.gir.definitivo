@@ -15,3 +15,8 @@ El ciclismo es una actividad aeróbica que consiste en pedalear para mejorar la 
 3. Varía la intensidad alternando entre pedaleo moderado y sprints cortos o subidas.
 4. Mantén una postura adecuada y una cadencia constante.
 5. Finaliza con un enfriamiento suave y estiramientos.
+
+## Consejos
+- Usa ropa cómoda y casco para seguridad.
+- Hidratate adecuadamente antes, durante y después.
+- Aumenta la duración e intensidad progresivamente.
