@@ -14,3 +14,8 @@ El entrenamiento funcional consiste en ejercicios que imitan movimientos cotidia
 2. Realiza ejercicios que involucren movimientos compuestos como sentadillas con salto, planchas, burpees, y levantamientos con peso corporal o con implementos (pesas, balones medicinales).
 3. Realiza 3-4 circuitos con 8-12 repeticiones por ejercicio, descansando 30-60 segundos entre circuitos.
 4. Finaliza con estiramientos y ejercicios de movilidad.
+
+## Consejos
+- Mantén una buena técnica para evitar lesiones.
+- Ajusta la intensidad según tu nivel de condición física.
+- Integra variedad de movimientos para trabajar todo el cuerpo.
