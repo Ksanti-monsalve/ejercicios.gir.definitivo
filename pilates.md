@@ -14,3 +14,8 @@ El Pilates es un método de ejercicio que se centra en fortalecer el núcleo del
 2. Realiza ejercicios de Pilates enfocados en el control del core, respiración y alineación corporal.
 3. Haz series de 8-12 repeticiones de cada ejercicio, manteniendo la concentración en la técnica y respiración.
 4. Finaliza con estiramientos suaves para relajar los músculos.
+
+## Consejos
+- Mantén una respiración constante y controlada durante los ejercicios.
+- Concéntrate en la calidad del movimiento más que en la cantidad.
+- Realiza Pilates de forma regular para notar mejoras significativas.
