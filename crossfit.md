@@ -15,3 +15,8 @@ El CrossFit es un programa de entrenamiento que combina ejercicios de fuerza, re
 3. Trabaja con intensidad, manteniendo buena técnica.
 4. Descansa según lo necesario entre rondas o ejercicios.
 5. Finaliza con estiramientos y recuperación.
+
+## Consejos
+- Ajusta los pesos y repeticiones según tu nivel.
+- Prioriza la técnica sobre la velocidad o carga.
+- Mantente hidratado y alimentado adecuadamente para soportar la intensidad.
