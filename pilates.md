@@ -8,3 +8,9 @@ El Pilates es un método de ejercicio que se centra en fortalecer el núcleo del
 - Mejora la postura y el equilibrio.
 - Aumenta la flexibilidad y la coordinación.
 - Ayuda a prevenir lesiones y reduce el dolor de espalda.
+
+## Instrucciones
+1. Comienza con un calentamiento suave para preparar el cuerpo.
+2. Realiza ejercicios de Pilates enfocados en el control del core, respiración y alineación corporal.
+3. Haz series de 8-12 repeticiones de cada ejercicio, manteniendo la concentración en la técnica y respiración.
+4. Finaliza con estiramientos suaves para relajar los músculos.
