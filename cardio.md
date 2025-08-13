@@ -12,3 +12,7 @@ Los ejercicios de cardio son actividades que aumentan tu frecuencia cardíaca y 
 - Comienza con un calentamiento de 5-10 minutos.
 - Realiza la actividad (correr, nadar, andar en bicicleta) durante al menos 30 minutos.
 - Termina con un enfriamiento y estiramientos.
+
+5. Consejos
+- Mantén una hidratación adecuada.
+- Escoge un ritmo que puedas mantener.
